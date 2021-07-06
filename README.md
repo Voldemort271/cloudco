@@ -1,2 +1,2 @@
-# cloudco
-cloudco
+# CloudCo
+self-explanatory.
